@@ -1,23 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-/**
- *  Calculate Pi 
- *  @date 19 August 2014
- *  @author Nefari0uss
- * 
- * This program will request the approximate number of calculations to run in calculating π.
- * The final result will be displayed on the console. Assumption is that the user inputs an int. 
- * 
- *
- * Uses the Gottfried Leibniz formula for calculation of π:
- *
- * 1 -  1/3  + 1/5 - 1/7 + 1/9 - ... = π/4
- *  
- * Source: Wikipedia - Leibniz formula for π
- **/
-
-public class Pi {
+public class pi {
 
 	public static void main(String[] args) {
 
