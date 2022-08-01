@@ -1,4 +1,4 @@
-##Oblicz liczbę Pi
+## Oblicz liczbę pi
 
 ## Instructions
 * Download git repository: .`git clone https://github.com/KucziSa/pi-calculator`
