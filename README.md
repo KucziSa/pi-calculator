@@ -13,7 +13,7 @@
 * Run `python pi.py`
 * Enjoy
 
-#Exe:
+# .exe:
 * Download exe file
 * Run exe file
 * Enjoy
