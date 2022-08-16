@@ -12,3 +12,10 @@
 * Go into directory: .`cd pi-calculator`
 * Run `python pi.py`
 * Enjoy
+
+#Exe:
+* Download exe file
+* Run exe file
+* Enjoy
+
+Simple? <a href="https://kuczis.mysocials.pl">©Kuczi$</a>
